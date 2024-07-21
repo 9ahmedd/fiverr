@@ -55,7 +55,8 @@ function Navbar() {
                       </div>
                   )}
               </div>
-          </div>
+      </div>
+      {/* fffff */}
           {(active || pathname !=="/" )&&
               <>
               <hr />
